@@ -1,0 +1,26 @@
+# Arquivos e pastas ignorados pelo Git
+# Dependências e ambientes
+node_modules/
+.venv/
+__pycache__/
+dist/
+bun.lock
+package-lock.json
+# Arquivos temporários e de sistema
+*.pyc
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+# Dados e imagens geradas
+images/
+*.png
+# Configurações locais
+.env
+# Testes e exemplos
+example/
+tests/
+misc/
+# Outros arquivos desnecessários
+prompts.json

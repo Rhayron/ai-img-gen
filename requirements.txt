@@ -1,0 +1,5 @@
+google-genai
+tinydb
+python-dotenv
+Pillow
+gradio_client
